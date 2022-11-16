@@ -1,0 +1,43 @@
+.container{
+    background-color: rgb(59, 53, 53);
+    width: 90%;
+    height: 100vh;
+    margin: auto;
+}
+.all{
+    display: flex;
+    margin-left: 50px;
+    padding: 50px;
+    gap: 1rem;
+    text-align: center;
+    font-weight: 600;
+}
+
+.ronke{
+    width: 210px;
+    height: 220px;
+    background-color: blue;
+    color: black;
+    border: 1px solid #fff;
+}
+.ronke2{
+    width: 210px;
+    height: 220px;
+    background-color:rgb(247, 83, 83);
+    color:black;
+    border: 1px solid #fff;
+}
+.ronke3{
+    width: 210px;
+    height: 220px;
+    background-color:yellowgreen;
+    color: black;
+    border: 1px solid #fff;
+}
+.ronke4{
+    width: 210px;
+    height: 220px;
+    background-color:blueviolet;
+    color: black;
+    border: 1px solid #fff;
+}
