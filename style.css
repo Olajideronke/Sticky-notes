@@ -99,12 +99,22 @@
 }
 
 .ronke3{
+    font-family: kalam;
+    font-size: 15px;
     width: 210px;
     height: 220px;
     background-color:yellowgreen;
-    color: black;
-    border: 1px solid #fff;
+    box-shadow: 7px 11px 7px rgba(251, 139, 19, 0.7);
+    color: white;
+    
 }
+.ronke3 :hover{
+    box-shadow: 10px 15px 10px rgba(14, 14, 14, 0.747);
+    transform: scale(1.15);
+    cursor: pointer;
+  }
+
+
 .ronke4{
     width: 210px;
     height: 220px;
